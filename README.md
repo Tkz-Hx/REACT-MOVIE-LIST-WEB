@@ -75,4 +75,4 @@ This project was created using [React](https://reactjs.org/).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact the project maintainer at [your-email@example.com](mailto:thesmartchoes63@gmail.com).
+If you have any questions or need further assistance, feel free to contact the project maintainer at [thesmartchoes63@gmail.com]
